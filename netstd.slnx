@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="console_net10/console_net10.csproj" />
+  <Project Path="console_net48/console_net48.csproj" Id="2ee551e7-c437-4102-8f33-9899784d6155" />
+  <Project Path="lib_net48/lib_net48.csproj" Id="a4c50f43-6fa3-4d82-94f7-ed93edaeb8f4" />
+  <Project Path="lib_netstd2/lib_netstd2.csproj" />
+  <Project Path="tests/tests.csproj" Id="5d52fb66-a716-4219-9de0-503738ec2fc3" />
+  <Project Path="webapi/webapi.csproj" Id="855d3b4b-eb05-4370-b9e2-58a0b345e105" />
+</Solution>
